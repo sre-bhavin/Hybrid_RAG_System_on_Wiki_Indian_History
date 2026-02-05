@@ -2,17 +2,6 @@
 
 This project implements a Hybrid Retrieval-Augmented Generation (RAG) system combining dense vector retrieval, sparse keyword retrieval (BM25), and Reciprocal Rank Fusion (RRF) to answer questions from 500 Wikipedia articles.
 
-## Team Members
-
-Our group number is 145. Assignment is contributed by below students.
-
-| Student ID | Name                          |
-|------------|-------------------------------|
-| 2024AA05298        | SHAILESH NARAYAN WAZALWAR    |
-| 2024AA05899        | SHAH BHAVIN ARVINDKUMAR CHANDRIKABEN |
-| 2024AA05924        | KALLURI N V S CHAITANYA   |
-| 2024AA05161        | SANTHOSH M                |
-| 2024AA05249        | BALAMURUGAN G             |
 
 ## Project Structure
 
