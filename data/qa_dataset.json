@@ -1,0 +1,702 @@
+[
+    {
+        "question": "What does soil liquefaction occur?",
+        "ground_truth": "when, because of the shaking, water-saturated granular material (such as sand) temporarily loses its strength and transforms from a solid to a liquid",
+        "source_url": "https://en.wikipedia.org/wiki/Earthquake",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Earthquake_30",
+        "category": "factual"
+    },
+    {
+        "question": "What is the text mainly about?Options:A The origin of Ashoka pillar inscriptionsB The origin of the Ashoka pillarsC The origin of the Ashoka pillarsD The?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Ashoka",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Ashoka_64",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What type of art is being studied by historians?",
+        "ground_truth": "Visual art",
+        "source_url": "https://en.wikipedia.org/wiki/India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/India_52",
+        "category": "factual"
+    },
+    {
+        "question": "What's the main idea of this passage?Options:A The design of Chandigarh is the best option to achieve urban living.B It is essential to achieve urban living.C The international style is important to urban?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Chandigarh",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Chandigarh_48",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What did the Vijayanagara Empire do in the 13th century?",
+        "ground_truth": "Repulsing Mongol raiders",
+        "source_url": "https://en.wikipedia.org/wiki/India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/India_13",
+        "category": "inferential"
+    },
+    {
+        "question": "Which city is the largest by population?",
+        "ground_truth": "Patna",
+        "source_url": "https://en.wikipedia.org/wiki/Bhagalpur",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bhagalpur_0",
+        "category": "comparative"
+    },
+    {
+        "question": "What did Akbar and later Shah Jahan bestow the administrative pargana of Sarwat on?",
+        "ground_truth": "Muslim Sayyid families",
+        "source_url": "https://en.wikipedia.org/wiki/Saharanpur",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Saharanpur_3",
+        "category": "comparative"
+    },
+    {
+        "question": "What year was the temple first constructed?",
+        "ground_truth": "871",
+        "source_url": "https://en.wikipedia.org/wiki/Thiruvarur",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Thiruvarur_3",
+        "category": "inferential"
+    },
+    {
+        "question": "Which character does Vasudeva refer to as when Krishna is born?",
+        "ground_truth": "Kamsa",
+        "source_url": "https://en.wikipedia.org/wiki/Krishna",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Krishna_18",
+        "category": "comparative"
+    },
+    {
+        "question": "Which of the following is TRUE about the fort? (A) The fort was named Mihirgarh, meaning 'fort of the sun'. (B) The fort was named Mihirgarh,?",
+        "ground_truth": "(A)",
+        "source_url": "https://en.wikipedia.org/wiki/Mehrangarh",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Mehrangarh_1",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What was the term used in the by-election in 1982?",
+        "ground_truth": "EVMs",
+        "source_url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Supreme_Court_of_India_35",
+        "category": "factual"
+    },
+    {
+        "question": "Which authors are not mentioned in this text? (A) Andrews. (B) Ellis, Catriona. (C) Gilmartin. (D) Mantena.?",
+        "ground_truth": "(A)",
+        "source_url": "https://en.wikipedia.org/wiki/British_Raj",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/British_Raj_94",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Why was he not allowed to escape?",
+        "ground_truth": "overloaded Japanese plane which crashed in Taiwan",
+        "source_url": "https://en.wikipedia.org/wiki/British_Raj",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/British_Raj_56",
+        "category": "factual"
+    },
+    {
+        "question": "What is the oldest recorded mosque in India?",
+        "ground_truth": "Cheraman Juma Mosque",
+        "source_url": "https://en.wikipedia.org/wiki/Islam_in_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Islam_in_India_7",
+        "category": "comparative"
+    },
+    {
+        "question": "Which of the following is not a type of civil disobedience: \"Integrity-based\" civil disobedience occurs when a citizen disobeys a law they feel is im?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Civil_disobedience",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Civil_disobedience_13",
+        "category": "inferential"
+    },
+    {
+        "question": "What are the last names of the eldest sons?",
+        "ground_truth": "Shah",
+        "source_url": "https://en.wikipedia.org/wiki/Bahmani_Kingdom",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bahmani_Kingdom_12",
+        "category": "comparative"
+    },
+    {
+        "question": "What is the difference between the Samaveda Samhita and the Samaveda Samhita?Options:A Some texts are more linguistic.B The Samaveda Samhita?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Vedas",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Vedas_29",
+        "category": "multi-hop"
+    },
+    {
+        "question": "At which point in time was the major ambushed by the mutineers and rebels?Options:A On the day of the attack.B On the day of the attack.C On the day of the attack.?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857_57",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Are there any other publishers with more than one book copy?",
+        "ground_truth": "J.D.E, Gribble (1990). History of the Decan. Mittal Publications. Khan, Iqtidar (1981). \"Early Use of Cannon and Musket in India: A.D. 1442-1526\". Journal of the Economic and Social History of the Orient. 24 (2): 146\u2013164. doi:10.2307/3631993. JSTOR 3631993.",
+        "source_url": "https://en.wikipedia.org/wiki/Bahmani_Kingdom",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bahmani_Kingdom_22",
+        "category": "comparative"
+    },
+    {
+        "question": "What is the majority of the people that reside in the capital city of Delhi?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/India_35",
+        "category": "factual"
+    },
+    {
+        "question": "What is the main concept of Kesavananda Bharati v. State of Kerala? _Options:A Supremacy of the constitutionB Constitution's basic structureC Constitution's constitutional nature?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Constitution_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Constitution_of_India_19",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What do Mala and Madiga students disagree about?",
+        "ground_truth": "work for common dalit cause at university level",
+        "source_url": "https://en.wikipedia.org/wiki/Dalit",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Dalit_53",
+        "category": "inferential"
+    },
+    {
+        "question": "Which religion is the second largest in Nagpur city?",
+        "ground_truth": "Islam",
+        "source_url": "https://en.wikipedia.org/wiki/Nagpur",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Nagpur_15",
+        "category": "comparative"
+    },
+    {
+        "question": "What is different about the word stems?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Sanskrit",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Sanskrit_50",
+        "category": "inferential"
+    },
+    {
+        "question": "What was the name of the first military unit to deploy drones in the army?",
+        "ground_truth": "Ashni",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_Army",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_Army_80",
+        "category": "factual"
+    },
+    {
+        "question": "What is the name of Brahmagupta's \"Sine table\"?",
+        "ground_truth": "2.2\u20135",
+        "source_url": "https://en.wikipedia.org/wiki/Brahmagupta",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Brahmagupta_23",
+        "category": "factual"
+    },
+    {
+        "question": "Of the 7 provinces in Madhesh Province, which is not a state?Options:A Madhesh Province.B Madhesh Province.C Province No. 2.D Province No. 2A?",
+        "ground_truth": "C",
+        "source_url": "https://en.wikipedia.org/wiki/Maithils",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Maithils_4",
+        "category": "multi-hop"
+    },
+    {
+        "question": ", which is the best title of the passage?Options:A Sculptures of Hindu deitiesB Sculptures of Hindu deitiesC Vivedic deitiesD Vivedic deitiesAnswer:?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Konark_Sun_Temple_13",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which of the following is true according to the passage?Options:A The Indian Artillery was founded in 1935.B The Regiment of Artillery is the second largest arm of the Indian Army.C The Indian Art?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_Army",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_Army_47",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Why were the ruins of Konark?Options:A Because they were the pillar of Aruna the charioteer.B Because it was not a holy place.C Because it was not suitable for?",
+        "ground_truth": "C",
+        "source_url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Konark_Sun_Temple_21",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Who is the CO with the rank of Deputy Superintendent? (A) The CO of SP City (B) The CO of SP City (C) The CO of SP City?",
+        "ground_truth": "(C)",
+        "source_url": "https://en.wikipedia.org/wiki/Bareilly",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bareilly_21",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which war came first, the partition of Rajasthan, or the signing of the Treaty of Versailles?",
+        "ground_truth": "partition of Rajasthan",
+        "source_url": "https://en.wikipedia.org/wiki/Junagarh_Fort",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Junagarh_Fort_6",
+        "category": "comparative"
+    },
+    {
+        "question": "Which type of a stone is found in Harappa?",
+        "ground_truth": "Delhi quartzite",
+        "source_url": "https://en.wikipedia.org/wiki/Aravalli_Range",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Aravalli_Range_12",
+        "category": "comparative"
+    },
+    {
+        "question": "How many days passed between the partition of Punjab and Bengal and the partition of the Union of India and Dominion of Pakistan?",
+        "ground_truth": "0",
+        "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/History_of_India_107",
+        "category": "inferential"
+    },
+    {
+        "question": "When was the election of state representatives in the federal legislature?Options:A In 1874.B In 1883.C In 1890.D In 1892.Answer:A?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1935",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Government_of_India_Act_1935_25",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What is the passage mainly about?",
+        "ground_truth": "Goa trance",
+        "source_url": "https://en.wikipedia.org/wiki/Music_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Music_of_India_31",
+        "category": "inferential"
+    },
+    {
+        "question": "Was Jamnagar larger in the male literacy rate or the female literacy rate?",
+        "ground_truth": "male literacy rate",
+        "source_url": "https://en.wikipedia.org/wiki/Jamnagar",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Jamnagar_8",
+        "category": "comparative"
+    },
+    {
+        "question": "Who has the highest combined ODI run scorers ranking for most games played?",
+        "ground_truth": "Sri Lankan cricketers",
+        "source_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Sri_Lanka_77",
+        "category": "factual"
+    },
+    {
+        "question": "How many religions did the Vedic school have in total?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Vedas",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Vedas_22",
+        "category": "comparative"
+    },
+    {
+        "question": "Which happened first, the death of Vasudeva I or the Kushan empire splitting?",
+        "ground_truth": "death of Vasudeva I",
+        "source_url": "https://en.wikipedia.org/wiki/Kushan_Empire",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Kushan_Empire_34",
+        "category": "comparative"
+    },
+    {
+        "question": "Which of the following is true according to the passage?Options:A Thirty-two years after Tipu died, the Kingdom of Mysore was divided into two kingdoms.B The Kingdom of Mysor?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore_17",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What is the best title for this passage?Options:A North-South LanguagesB North-South LanguagesC Biologists' DictionaryD Tibeto-Burman Language familyAnswer:A?",
+        "ground_truth": "D",
+        "source_url": "https://en.wikipedia.org/wiki/Languages_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Languages_of_India_13",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which of the following is not true? _ .Options:A The last Chalukya king was Narasimhavarman II.B The last Chalukya king is Narasimha?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Pandya_dynasty_22",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which of the following is TRUE about the Neighbour City?Options:A It is the closest park to Colony Park.B It is the second largest park in Ambattur.C It is the capital?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Ambattur",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Ambattur_14",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which city is better, Coimbatore or Dindigul?",
+        "ground_truth": "Coimbatore",
+        "source_url": "https://en.wikipedia.org/wiki/Dindigul",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Dindigul_0",
+        "category": "comparative"
+    },
+    {
+        "question": "When was the Battle of Palkhed fought?",
+        "ground_truth": "28 February 1728",
+        "source_url": "https://en.wikipedia.org/wiki/Maratha_Empire",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Maratha_Empire_9",
+        "category": "factual"
+    },
+    {
+        "question": "Which side of the iwan has a slightly asymmetrical design?",
+        "ground_truth": "Each side",
+        "source_url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Taj_Mahal_6",
+        "category": "comparative"
+    },
+    {
+        "question": "Which other religious people were not present in Akbar's court?",
+        "ground_truth": "orthodox Muslim",
+        "source_url": "https://en.wikipedia.org/wiki/Akbar",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Akbar_53",
+        "category": "inferential"
+    },
+    {
+        "question": "What has the RBI been established as an Indian central bank?",
+        "ground_truth": "The purposes for which the RBI has been established",
+        "source_url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India_19",
+        "category": "factual"
+    },
+    {
+        "question": "Which country has signed a memorandum of understanding on the Space Situational Awareness Data Sharing Pact with the US?",
+        "ground_truth": "India",
+        "source_url": "https://en.wikipedia.org/wiki/ISRO",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/ISRO_19",
+        "category": "comparative"
+    },
+    {
+        "question": "How many people left the Congress in the year 2024?",
+        "ground_truth": "99",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_National_Congress",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_National_Congress_44",
+        "category": "inferential"
+    },
+    {
+        "question": "Who was the founder of the caste system?",
+        "ground_truth": "Rishabha",
+        "source_url": "https://en.wikipedia.org/wiki/Caste_system_in_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Caste_system_in_India_34",
+        "category": "inferential"
+    },
+    {
+        "question": "What was the most important contribution to the Indian subcontinent that the Mughals made to the Indian subcontinent?",
+        "ground_truth": "their distinctive architectural style",
+        "source_url": "https://en.wikipedia.org/wiki/Mughal_Empire",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Mughal_Empire_35",
+        "category": "factual"
+    },
+    {
+        "question": "What cave is the Vihara located on?",
+        "ground_truth": "Cave 17",
+        "source_url": "https://en.wikipedia.org/wiki/Ajanta_Caves",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Ajanta_Caves_58",
+        "category": "factual"
+    },
+    {
+        "question": "According to Jeevika Weerahewa, how many years did it take for the ban to be lifted?",
+        "ground_truth": "1",
+        "source_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Sri_Lanka_60",
+        "category": "inferential"
+    },
+    {
+        "question": "How many percent of the population are not Hindus and Christians?",
+        "ground_truth": "99.92",
+        "source_url": "https://en.wikipedia.org/wiki/Bhubaneswar",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bhubaneswar_16",
+        "category": "comparative"
+    },
+    {
+        "question": "What is used to describe the words in the language of the ancient civilizations?",
+        "ground_truth": "Isila",
+        "source_url": "https://en.wikipedia.org/wiki/Kannada",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Kannada_6",
+        "category": "factual"
+    },
+    {
+        "question": "What was the city's capitol called?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Chandigarh",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Chandigarh_8",
+        "category": "factual"
+    },
+    {
+        "question": "The Gol Gumbaz, the mausoleum of Muhammad Adil Shah, was completed in _ .Options:A 1656B 1655C 1656D 1656Answer:C?",
+        "ground_truth": "C",
+        "source_url": "https://en.wikipedia.org/wiki/Deccan_sultanates",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Deccan_sultanates_18",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which of the following statements is true according to the passage?Options:A Pre-primary school is the foundation of children's knowledge, skills and behaviour.B Pre-primary education is not a fundamental right in?",
+        "ground_truth": "Yes",
+        "source_url": "https://en.wikipedia.org/wiki/Education_in_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Education_in_India_24",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Buddha found a Middle Way that _ .Options:A was a teacher of Jain orthodoxyB was an ascetist of JainismC was a teacher of JainnismD was?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/History_of_India_19",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What is the shortest time frame in india?",
+        "ground_truth": "15\u201320 days",
+        "source_url": "https://en.wikipedia.org/wiki/ISRO",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/ISRO_49",
+        "category": "factual"
+    },
+    {
+        "question": "Which officials in the Vedic period were responsible for the governance of the tribes?",
+        "ground_truth": "sabha and samiti",
+        "source_url": "https://en.wikipedia.org/wiki/Vedic_period",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Vedic_period_17",
+        "category": "factual"
+    },
+    {
+        "question": "Which happened first, Ladakh sided with Bhutan or the Tibet\u2013Ladakh\u2013Mughal war?",
+        "ground_truth": "Tibet\u2013Ladakh\u2013Mughal war",
+        "source_url": "https://en.wikipedia.org/wiki/Ladakh",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Ladakh_10",
+        "category": "comparative"
+    },
+    {
+        "question": "What is the name of the emperor who uses the dynastic name Koshano?",
+        "ground_truth": "Kushan",
+        "source_url": "https://en.wikipedia.org/wiki/Kushan_Empire",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Kushan_Empire_3",
+        "category": "factual"
+    },
+    {
+        "question": "What is the reason for sexual violence in India?",
+        "ground_truth": "Deafness",
+        "source_url": "https://en.wikipedia.org/wiki/Women_in_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Women_in_India_46",
+        "category": "factual"
+    },
+    {
+        "question": "What is Bikaner's nearest airport?",
+        "ground_truth": "Nal Airport",
+        "source_url": "https://en.wikipedia.org/wiki/Bikaner",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bikaner_16",
+        "category": "inferential"
+    },
+    {
+        "question": "How long had the Government of India Act 1919 been in effect?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/British_Raj",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/British_Raj_37",
+        "category": "comparative"
+    },
+    {
+        "question": "Which of the following is true about Sirkazhi?Options:A It has 51.47 km of district roads, including a national highway.B It is located in the north of Tamil Nadu.C It?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Sirkazhi",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Sirkazhi_0",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which education sector spends more on students?",
+        "ground_truth": "elementary education",
+        "source_url": "https://en.wikipedia.org/wiki/Education_in_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Education_in_India_100",
+        "category": "comparative"
+    },
+    {
+        "question": "What is the least important title of the text?",
+        "ground_truth": "Kukrail Picnic Spot",
+        "source_url": "https://en.wikipedia.org/wiki/Lucknow",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Lucknow_63",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What is the best title of the passage?Options:A A festival for farmersB A festival for MahashivratriC A festival for classical danceD More than one way to comeAnswer:A?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Gujarat",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Gujarat_70",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What happened first, the killing of Channan Singh or the escape from Lahore?",
+        "ground_truth": "Killing of Channan Singh",
+        "source_url": "https://en.wikipedia.org/wiki/Bhagat_Singh",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Bhagat_Singh_8",
+        "category": "comparative"
+    },
+    {
+        "question": "What did the Samantapasadika say Ashoka followed?",
+        "ground_truth": "non-Buddhist sects",
+        "source_url": "https://en.wikipedia.org/wiki/Ashoka",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Ashoka_32",
+        "category": "factual"
+    },
+    {
+        "question": "What is the festival known as?",
+        "ground_truth": "Deepavali",
+        "source_url": "https://en.wikipedia.org/wiki/Ramayana",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Ramayana_19",
+        "category": "inferential"
+    },
+    {
+        "question": "What is the term that is used to describe a population that is governed by a state government?",
+        "ground_truth": "Dalits",
+        "source_url": "https://en.wikipedia.org/wiki/Dalit",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Dalit_41",
+        "category": "factual"
+    },
+    {
+        "question": "What benefited Sikhism?Options:A It encouraged the Kshatriya people to fight.B It discouraged veiling of women's faces.C It discouraged the veiling of women's faces?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Sikhism",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Sikhism_42",
+        "category": "multi-hop"
+    },
+    {
+        "question": "What is the difference between two colors in the equation?",
+        "ground_truth": "The remainder divided by the first [color's coefficient] is the measure of the first",
+        "source_url": "https://en.wikipedia.org/wiki/Brahmagupta",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Brahmagupta_7",
+        "category": "inferential"
+    },
+    {
+        "question": "What is the name of the parliament?",
+        "ground_truth": "Federal Parliament",
+        "source_url": "https://en.wikipedia.org/wiki/Nepal",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Nepal_33",
+        "category": "inferential"
+    },
+    {
+        "question": "What was the name used in the press of London and British colonies at the time?",
+        "ground_truth": "The Indian Insurrection",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857_83",
+        "category": "inferential"
+    },
+    {
+        "question": "Which of the following is NOT a way of saying Sanskrit is dead or dying?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Sanskrit",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Sanskrit_31",
+        "category": "comparative"
+    },
+    {
+        "question": "Which Westerners formally converted to Buddhism?",
+        "ground_truth": "Helena Blavatsky and Henry Steel Olcott",
+        "source_url": "https://en.wikipedia.org/wiki/Buddhism",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Buddhism_87",
+        "category": "comparative"
+    },
+    {
+        "question": "What were the main religious events in Nayanika's inscription?",
+        "ground_truth": "Vedic sacrifices",
+        "source_url": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Satavahana_dynasty_34",
+        "category": "inferential"
+    },
+    {
+        "question": "What other city did the mansabdars live in?",
+        "ground_truth": "Agra",
+        "source_url": "https://en.wikipedia.org/wiki/Akbar",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Akbar_34",
+        "category": "factual"
+    },
+    {
+        "question": "Which of the following is true about the kingdom of Travancore?Options:A The kingdom was located in India.B It was ruled by the Travancore royal family.C The kingdom was located in India.D?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Travancore",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Travancore_0",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Who are the Puranas?",
+        "ground_truth": "Hindu",
+        "source_url": "https://en.wikipedia.org/wiki/Puranas",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Puranas_22",
+        "category": "factual"
+    },
+    {
+        "question": "What are the main parts of the garden called?",
+        "ground_truth": "The Long Garden",
+        "source_url": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan_15",
+        "category": "factual"
+    },
+    {
+        "question": "Which books has the most number of citations?",
+        "ground_truth": "Compendium of Environment Statistics India 2011, Annual Report and Data, Ministry of Statistics and Programme Implementation, Central Statistical Organisation, Government of India, New Delhi.",
+        "source_url": "https://en.wikipedia.org/wiki/Environmental_issues_in_India",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Environmental_issues_in_India_22",
+        "category": "inferential"
+    },
+    {
+        "question": "If the 1st person plural is a different form than the first person singular, which of the following is the best form?Options:A They are in the same form as the 1st person plural.B They?",
+        "ground_truth": "B",
+        "source_url": "https://en.wikipedia.org/wiki/Dravidian_languages",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Dravidian_languages_30",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Who were the first rulers of the Salem area?",
+        "ground_truth": "Ramachandra Nayaka and Gatti Mudaliars",
+        "source_url": "https://en.wikipedia.org/wiki/Namakkal",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Namakkal_3",
+        "category": "inferential"
+    },
+    {
+        "question": "Which book has the highest number of copies?",
+        "ground_truth": "Rajasthan & Gujarat Handbook: The Travel Guide. Footprint Travel Guides. ISBN 1-900949-92-X",
+        "source_url": "https://en.wikipedia.org/wiki/Junagarh_Fort",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Junagarh_Fort_17",
+        "category": "comparative"
+    },
+    {
+        "question": "What do the Hindus do besides accept the authority of the Vedas?",
+        "ground_truth": "Buddhism, Jainism, Ajivika and Charvaka",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_philosophy",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_philosophy_3",
+        "category": "factual"
+    },
+    {
+        "question": "How many years after Senapati Bhatarka took advantage of the situation did the Gupta empire go into decline?",
+        "ground_truth": "470",
+        "source_url": "https://en.wikipedia.org/wiki/Gujarat",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Gujarat_6",
+        "category": "comparative"
+    },
+    {
+        "question": "Who was the name of the early Tamil people?",
+        "ground_truth": "Tamil",
+        "source_url": "https://en.wikipedia.org/wiki/Dravidian_languages",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Dravidian_languages_4",
+        "category": "factual"
+    },
+    {
+        "question": "How many degrees is the Thar Desert on the map?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Thar_Desert",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Thar_Desert_0",
+        "category": "comparative"
+    },
+    {
+        "question": "At the time that the Kingdom of Mysore became a princely state, which happened first?Options:A The Maharaja Krishnaraja Wadiyar was made king.B The Kingdom of?",
+        "ground_truth": "Chamaraja Wadiyar X was made king",
+        "source_url": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore_2",
+        "category": "multi-hop"
+    },
+    {
+        "question": "How many years after Henry Olcott became an American convert did Anagarika Dharmapala re interpret Buddhist as a scientific and rational religion?Options:A In the 20th century.B In the 50th century?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Buddhism",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Buddhism_84",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Which is the best title of this passage?Options:A Tamil History and CultureB Politics in IndiaC Tamil PolitiesD Tamil PoliticsAnswer:D?",
+        "ground_truth": "A",
+        "source_url": "https://en.wikipedia.org/wiki/Chera_dynasty",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Chera_dynasty_19",
+        "category": "multi-hop"
+    },
+    {
+        "question": "Why did Pandey feel obligated to attack Baugh?",
+        "ground_truth": "I don't know",
+        "source_url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857_19",
+        "category": "inferential"
+    },
+    {
+        "question": "How many people live in Kozhikode?",
+        "ground_truth": "609,224",
+        "source_url": "https://en.wikipedia.org/wiki/Kozhikode",
+        "source_chunk_id": "https://en.wikipedia.org/wiki/Kozhikode_0",
+        "category": "factual"
+    }
+]

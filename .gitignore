@@ -106,16 +106,16 @@ venv.bak/
 dmypy.json
 
 # Data files
-data/*.json
-data/*.pkl
-data/*.db
-data/vector_db/
-data/sparse_index/
+# data/*.json
+# data/*.pkl
+# data/*.db
+# data/vector_db/
+# data/sparse_index/
 
 # Reports
-reports/*.pdf
-reports/*.html
-reports/*.csv
+# reports/*.pdf
+# reports/*.html
+# reports/*.csv
 
 # Logs
 *.log
