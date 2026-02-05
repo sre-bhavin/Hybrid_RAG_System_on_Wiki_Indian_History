@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hybrid-rag"
+version = "0.1.0"
+description = "Hybrid Retrieval-Augmented Generation system"
+authors = [
+    {name = "Bhavin Shah", email = "2024aa05899@wilp.bits-pilani.ac.in"},
+]
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "nltk",
+    "sentence-transformers",
+    "faiss-cpu",
+    "chromadb",
+    "rank-bm25",
+    "transformers",
+    "torch",
+    "accelerate",
+    "streamlit",
+    "gradio",
+    "flask",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "reportlab",
+    "jinja2",
+    "openpyxl",
+    "tqdm",
+    "python-dotenv",
+]
+requires-python = ">=3.8"
+
+[tool.setuptools]
+packages = ["src", "evaluation", "ui"]
+
+[project.scripts]
+data-collection = "src.data_collection:main"
+dense-retrieval = "src.dense_retrieval:main"
+sparse-retrieval = "src.sparse_retrieval:main"
+run-rag = "src.rag_system:main"
+generate-questions = "evaluation.question_generation:main"
+evaluate = "evaluation.evaluation_pipeline:main"
+ui = "ui.app:main"

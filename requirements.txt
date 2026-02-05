@@ -1,0 +1,26 @@
+wikipedia
+requests
+beautifulsoup4
+nltk
+sentence-transformers
+faiss-cpu
+chromadb
+rank-bm25
+transformers
+torch
+accelerate
+streamlit
+gradio
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+fpdf  # for PDF reports
+jinja2
+openpyxl  # for Excel reports
+tqdm
+python-dotenv
+pytest
